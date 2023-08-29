@@ -1,6 +1,8 @@
-.venv/
-db.sqlite
+venv/
+db.sqlite3
 .env
-.Ds_Store
 .vscode/
 htmlcov/
+.covrage
+*.md
+__pycache__
