@@ -12,3 +12,12 @@
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-family: 'Merriweather', serif;
 }
+
+html,
+body {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.fw-500{
+    font-weight: 500;
+}
